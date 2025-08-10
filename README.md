@@ -63,12 +63,6 @@ Banking customer churn presents unique challenges:
 - **Insurance**: Policy holder churn prediction and retention
 - **Subscription Services**: Customer retention across recurring revenue models
 
-## Technical Differentiators
-- **Imbalanced Data Expertise**: Advanced techniques for minority class prediction
-- **Banking Domain Knowledge**: Understanding of customer lifecycle and retention metrics
-- **Ensemble Optimization**: Random Forest tuning for imbalanced classification
-- **Business-Focused Metrics**: F1-score optimization for actionable insights
-
 ## Applications Across Industries
 - **Telecommunications**: Mobile service churn prediction and retention
 - **E-commerce**: Customer loyalty and subscription retention
